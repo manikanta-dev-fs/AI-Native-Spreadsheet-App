@@ -134,7 +134,7 @@ The formula engine (`engine/core.js`) is a hand-written interpreter:
 
 ```bash
 # Clone and install
-git clone <your-repo-url>
+git clone https://github.com/manikanta-dev-fs/AI-Native-Spreadsheet-App.git
 cd task_AI_native_Office_intern
 npm install
 
